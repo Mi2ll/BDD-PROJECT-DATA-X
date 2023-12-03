@@ -8,7 +8,7 @@ Peuplement (origine des données, difficultés rencontrées, fonctionnalités pr
 
 MLD
 
-![Untitled](![image]([https://github.com/Mi2ll/BDD-PROJECT-DATA-X/assets/119260964/329cf71f-07dd-47ac-a3ff-f935b8ff9347](https://media.discordapp.net/attachments/429783640361140225/1180833846015578133/image.png?ex=657edc37&is=656c6737&hm=e28e80894e834a5f7c7b1c088e1d5d8cb893c9c91672bcb85d947116678cea3e&=&format=webp&quality=lossless&width=1320&height=662)))
+![Untitled](https://media.discordapp.net/attachments/429783640361140225/1180833784912953344/image.png?ex=657edc29&is=656c6729&hm=6c68ab53cb16b87a9c9d2bc72b1210e2a4a221bf5239230a55346ef572e8e923&=&format=webp&quality=lossless&width=1353&height=662)
 
 - Script création bdd
     
