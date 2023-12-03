@@ -1088,10 +1088,6 @@ graph TD
 	Gas --> Capture --> Sensor --> Sector_activity
 ```
 
-# Ordre pour le peuplement :
-
-![Untitled](Livrable%202%2045c89c5fcbd04e2ebec65ee50ad13cf6/Untitled%202.png)
-
 # Requêtes
 
 ### **1 -** ✅ **Listez l'ensemble des agences**
