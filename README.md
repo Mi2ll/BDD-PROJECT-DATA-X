@@ -1234,3 +1234,9 @@ JOIN (
 	ORDER BY Region.Region_ID) AS Agency ON Sensor.Region_ID = Agency.Region_ID
 WHERE Agency.Agency_NB > Sensor.Sensor_N;
 ```
+
+## User and root accounts
+
+![User](https://media.discordapp.net/attachments/429783640361140225/1180844650123251712/image.png?ex=657ee647&is=656c7147&hm=41395acb4606b26b8d5af410353814b4af738c9ec527b906f1bb168a2071e086&=&format=webp&quality=lossless&width=1180&height=533)
+
+![User](https://media.discordapp.net/attachments/429783640361140225/1180845111345688697/image.png?ex=657ee6b5&is=656c71b5&hm=ff4cbfe20c9b0061173224cdf35e6b78dd8a6187887a8030f37cfbb81e21ae5a&=&format=webp&quality=lossless&width=951&height=662)
