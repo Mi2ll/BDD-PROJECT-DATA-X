@@ -1,0 +1,13 @@
+-- SELECT * FROM query1
+-- SELECT * FROM query2
+-- SELECT * FROM query3
+-- SELECT * FROM query4
+-- SELECT * FROM query5
+-- SELECT * FROM query6
+-- SELECT * FROM query7
+-- SELECT * FROM query8
+-- SELECT * FROM query9
+-- SELECT * FROM query10
+-- Get_Report_From_Gas('NH3') -- Insert gas in ''
+-- SELECT * FROM query12 -- Return nothing because there is 200 sensors for 25 agencies
+-- SELECT * FROM query12mod -- Modified to show number of sensors and number of agencies per region
