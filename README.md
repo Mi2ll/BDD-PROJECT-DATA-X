@@ -1,10 +1,6 @@
-PROJET DATAX 
+# PROJET DATAX 
 
 Dans le cadre du dernier rapport du GIEC, le ministère de l’écologie contacte votre entreprise DATA-X. Il vous mandate pour réaliser un outil pour stocker et interroger des données publiques sur la qualité de l’air dans les grandes villes de France. Ces données seront stockées dans une base de données relationnelle.
-
-Requêtes SQL
-
-Peuplement (origine des données, difficultés rencontrées, fonctionnalités présentes ou absentes...)
 
 # BDD
 
